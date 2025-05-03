@@ -1,0 +1,39 @@
+[
+  {
+    "id": "valldyr",
+    "title": "Valldyr DeFi Protocol",
+    "image": "valldyr1 (2).JPG",
+    "description": "Valldyr is a multi-era, mythology-driven decentralized application combining collectible NFTs, strategic turn-based battles, revenue-sharing mechanics, staking rewards, and a marketplace for both digital and physical goods. Inspired by collectible card games like Magic: The Gathering and Pokémon, Valldyr introduces a blockchain-native experience where ownership, power, and lore evolve across six mythologically themed Ages.",
+    "tech": ["Solidity", "Hardhat", "React"],
+    "challenge": [
+      "Most crypto gaming projects suffer from short-term hype cycles, unsustainable economies, and fragmented experiences. Traditional card games lack transparency and real ownership, while Web3 alternatives often lack polish, lore, or community cohesion.",
+      "Valldyr was born to solve these issues by offering a deeply integrated ecosystem where every interaction—staking, battling, minting, or purchasing—feels like part of a living legend.",
+      "Players needed a way to earn, compete, collect, and grow within one persistent universe—without needing to leave the platform for staking, trading, fiat entry/exit, or off-chain assets."
+    ],
+    "outcome": "Valldyr stands as a new paradigm for what Web3 games can be: enduring, rewarding, and beautifully integrated. Notable achievements include:\n\n- A full turn-based card battle system with move commits, Chainlink randomness, and revenue-sharing logic.\n- Progressive NFT minting system for each Age with dynamic gear and rarity stats.\n- Fully functional staking vault with 7 lock tiers and pro-rata penalties on early exits.\n- $VALL token launched with flat-fee mechanics, multi-role utility, and fiat ramp integration.\n- Faction-based leaderboards with challenge-based champion dethroning mechanics.\n- A lore-rich portal allowing users to dive into each Age’s world, factions, and card sets.\n\nValldyr proves that crypto games don’t have to be gimmicks—they can be mythologies that live, reward, and evolve.",
+    "github_link": "#",
+    "live_link": "#"
+  },
+  {
+    "id": "clcDeFi",
+    "title": "CLC DeFi Platform",
+    "image": "CLC Homepage (2).png",
+    "description": "I designed Collective Coin (CLC) as a utility token at the heart of a DeFi-powered sweepstakes and gaming platform: I built an integrated e-commerce marketplace where customers earn CLC on every purchase, then implemented a staking system that increases players’ chances in Chainlink-verified raffles and interactive games like Plinko. I wrote the smart contracts to allocate entry fees to prize pools and a buy-and-burn mechanism, and developed the front-end game interfaces to display real-time odds and prize draws—creating a self-sustaining cycle that rewards our community, funds token scarcity, and truly 'Grows Wealth, Builds Community.'",
+    "tech": ["Solidity", "Hardhat", "React", "Ethers.js", "Chainlink"],
+    "challenge": "The biggest hurdle was architecting a tokenomic system that seamlessly balanced user rewards, prize-pool funding, and token scarcity without bloating gas costs or exposing our contracts to vulnerabilities. I had to design smart contracts that split every entry fee between buy-and-burn, staking rewards, and raffle pools, all while integrating Chainlink VRF for provably fair randomness.",
+    "outcome": "Successfully deployed core smart contracts, developed front-end components for user staking and interaction, and contributed to protocol documentation and testing.",
+    "github_link": "#",
+    "live_link": "#"
+  },
+  {
+    "id": "chartersVineRedesign",
+    "title": "Website Redesign for Charters on Vine",
+    "image": "Chartersonvine (2).jpg",
+    "description": "Spearheaded the complete redesign and development of the Charters on Vine website. Focused on creating a modern, user-friendly experience to boost online presence and simplify charter bookings.",
+    "tech": ["HTML", "CSS", "JavaScript", "Figma"],
+    "challenge": "Overcame outdated visual design, improved navigation clarity, ensured mobile responsiveness, and implemented an intuitive quote request and booking flow.",
+    "outcome": "Launched a visually appealing, fully responsive website leading to increased user engagement and positive client feedback. Streamlined the booking inquiry process.",
+    "github_link": "https://github.com/patterson0407/chartersonvine",
+    "live_link": "https://www.chartersonvine.com"
+  }
+]
