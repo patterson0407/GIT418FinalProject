@@ -2,7 +2,7 @@
   {
     "id": "valldyr",
     "title": "Valldyr DeFi Protocol",
-    "image": "valldyr1 (2).jpg",
+    "image": "Valldyr1 (2).jpg",
     "description": "Valldyr is a multi-era, mythology-driven decentralized application combining collectible NFTs, strategic turn-based battles, revenue-sharing mechanics, staking rewards, and a marketplace for both digital and physical goods. Inspired by collectible card games like Magic: The Gathering and Pokémon, Valldyr introduces a blockchain-native experience where ownership, power, and lore evolve across six mythologically themed Ages.",
     "tech": ["Solidity", "Hardhat", "React"],
     "challenge": [
